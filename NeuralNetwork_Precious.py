@@ -1,7 +1,8 @@
 # CS 5033: Machine Learning
 # Supervised learning project
 # Neural Network
-# Author: Precious Jatau
+# Source Code: Dr. Precious Jatau
+# qingn
 
 # import libraries
 import numpy as np
